@@ -1,0 +1,16 @@
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+# PHPstorm IDE
+.idea/
+*.log
+
+.DS_Store
+
+# exclude composer & log dir
+vendor/
+logs/*
+
+# dotenv environment variables file
+.env
+*.env
+.env.test
