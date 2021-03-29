@@ -1,0 +1,8 @@
+{
+    "name": "vendor_name/phptemplate",
+    "description": "",
+    "require": {
+        "curl/curl": "^2.3",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}

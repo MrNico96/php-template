@@ -9,6 +9,7 @@
 # exclude composer & log dir
 vendor/
 logs/*
+*.lock
 
 # dotenv environment variables file
 .env
